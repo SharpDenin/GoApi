@@ -1,21 +1,62 @@
+# github.com/bytedance/sonic v1.8.0
+## explicit; go 1.15
+# github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311
+## explicit; go 1.15
+# github.com/gin-contrib/sse v0.1.0
+## explicit; go 1.12
+# github.com/gin-gonic/gin v1.9.0
+## explicit; go 1.18
+# github.com/go-playground/locales v0.14.1
+## explicit; go 1.17
+# github.com/go-playground/universal-translator v0.18.1
+## explicit; go 1.18
+# github.com/go-playground/validator/v10 v10.11.2
+## explicit; go 1.18
+# github.com/go-sql-driver/mysql v1.7.0
+## explicit; go 1.13
+# github.com/goccy/go-json v0.10.0
+## explicit; go 1.12
+# github.com/jinzhu/gorm v1.9.16
+## explicit; go 1.12
 # github.com/jinzhu/inflection v1.0.0
 ## explicit
-github.com/jinzhu/inflection
 # github.com/jinzhu/now v1.1.5
 ## explicit; go 1.12
-github.com/jinzhu/now
+# github.com/json-iterator/go v1.1.12
+## explicit; go 1.12
+# github.com/klauspost/cpuid/v2 v2.0.9
+## explicit; go 1.13
+# github.com/leodido/go-urn v1.2.1
+## explicit; go 1.13
+# github.com/mattn/go-isatty v0.0.17
+## explicit; go 1.15
 # github.com/mattn/go-sqlite3 v1.14.15
 ## explicit; go 1.16
-github.com/mattn/go-sqlite3
+# github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421
+## explicit
+# github.com/modern-go/reflect2 v1.0.2
+## explicit; go 1.12
+# github.com/pelletier/go-toml/v2 v2.0.6
+## explicit; go 1.16
+# github.com/twitchyliquid64/golang-asm v0.15.1
+## explicit; go 1.13
+# github.com/ugorji/go/codec v1.2.9
+## explicit; go 1.11
+# golang.org/x/arch v0.0.0-20210923205945-b76863e36670
+## explicit; go 1.17
+# golang.org/x/crypto v0.5.0
+## explicit; go 1.17
+# golang.org/x/net v0.7.0
+## explicit; go 1.17
+# golang.org/x/sys v0.5.0
+## explicit; go 1.17
+# golang.org/x/text v0.7.0
+## explicit; go 1.17
+# google.golang.org/protobuf v1.28.1
+## explicit; go 1.11
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
 # gorm.io/driver/sqlite v1.4.4
 ## explicit; go 1.14
-gorm.io/driver/sqlite
 # gorm.io/gorm v1.24.6
 ## explicit; go 1.16
-gorm.io/gorm
-gorm.io/gorm/callbacks
-gorm.io/gorm/clause
-gorm.io/gorm/logger
-gorm.io/gorm/migrator
-gorm.io/gorm/schema
-gorm.io/gorm/utils
