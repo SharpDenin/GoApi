@@ -1,4 +1,4 @@
-module PrBack
+module github.com/SharpDenin/PrBack
 
 go 1.20
 
