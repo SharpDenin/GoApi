@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"net/http"
-	"github.com/SharpDenin/PrBack/tree/main/config"
-	"github.com/SharpDenin/PrBack/tree/main/models"
+	"github.com/SharpDenin/PrBack/config"
+	"github.com/SharpDenin/PrBack/models"
 	"github.com/gin-gonic/gin"
 )
 

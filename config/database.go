@@ -1,11 +1,9 @@
 package config
 
 import (
-	"fmt"
-	"github.com/SharpDenin/PrBack/tree/main/models"
+	"github.com/SharpDenin/PrBack/models"
 	"github.com/jinzhu/gorm"
 	"gorm.io/driver/sqlite"
-	"gorm.io/gorm"
 )
 
 var DB *gorm.DB
@@ -15,6 +13,6 @@ func connectToDB() {
 	if err != nil {
 		panic("Не подключено")
 	}
-	db.AutoMigrate(models.&User{})
+	db.AutoMigrate(&models.User{})
 	DB = db
 }
