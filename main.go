@@ -12,7 +12,7 @@ func main() {
 
 	route := gin.Default()
 
-	config.connectToDB()
+	config.ConnectToDB()
 
 	route.GET("/users", controllers.GetAllUsers)
 	route.POST("/users", controllers.CreateUser)
